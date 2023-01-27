@@ -10,7 +10,7 @@ Requirements:
 Steps:
 1. Download the following files-
 • [Platform Tools](https://developer.android.com/studio/releases/platform-tools)
-2. Copy custom recovery and  to platform tools.
+2. Copy custom recovery and paste to platform tools.
 3. Boot your phone into fastboot mode and connect it to your computer.
 4. Open command prompt in platform tools directory and type the following commands-
 
